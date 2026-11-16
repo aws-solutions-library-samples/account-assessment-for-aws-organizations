@@ -25,7 +25,7 @@ pytest-describe = "~3.1.0"
 pytest-cov = "~5.0.0"
 openapi-spec-validator = "~0.7.1"
 docker = "~7.1.0"
-joserfc = ">=1.6.8"
+joserfc = ">=1.7.6"
 werkzeug = ">=3.1.6"
 cryptography = ">=50.0.0"
 
